@@ -11,5 +11,7 @@ WriteMakefile(
     PREREQ_PM    => {
                      'Test::Simple' => 0.44,
                      'Catalyst::Runtime' => 5.7007,
+                     'Class::C3' => 0.14,
+                     
                     },
 );

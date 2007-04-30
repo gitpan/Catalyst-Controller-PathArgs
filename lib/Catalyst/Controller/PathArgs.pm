@@ -3,7 +3,7 @@ use strict;
 use base 'Catalyst::Controller';
 use Class::C3;
 
-our $VERSION = '0.1';
+our $VERSION = '0.2';
 
 
 sub create_action {
